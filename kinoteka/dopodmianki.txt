@@ -1,0 +1,32 @@
+aktor.php
+    
+    <header id="header1">
+        <h2><link rel="stylesheet" href="index.html">KinoTEKA</h2>
+    </header>
+    <header id="header2">
+        <p><em>W naszej bazie znajdują się najelpsi aktorzy</em></p>
+    </header>
+    <main>
+        <script src=""></script>
+        <script src=""></script>
+    </main>
+    <footer>
+        <p><b>Autor:Michał Świstak</b></p>
+    </footer>
+
+
+index.php
+
+    <header id="header1">
+        <h2><link rel="stylesheet" href="index.html">KinoTEKA</h2>
+    </header>
+    <header id="header2">
+        <p><em>W naszej bazie znajdują się najelpsi aktorzy</em></p>
+    </header>
+    <main>
+        <h1>Njlepsi aktorzy tylko w naszym kinie</h1>
+        <script src=""></script>
+    </main>
+    <footer>
+        <p><b>Autor:Michał Świstak</b></p>
+    </footer>

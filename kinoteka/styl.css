@@ -1,0 +1,47 @@
+body{
+    font-family: 'Gill Sans MT', Calibri;
+    margin: 0 auto;
+}
+
+#header1{
+    width: 40%;
+    float: left;
+}
+#header2{
+    width: 60%;
+    text-align: right;
+    float: left;
+}
+
+#h1{
+    clear: both;
+}
+
+.wszyscy-aktorzy{
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+.pojedynczy-aktor{
+    display: inline-block;
+    width: 15em;
+    margin: 15px;
+    text-align: center;
+}
+
+p.pojedynczy-aktor{
+    font-size: 125%;
+}
+
+img{
+    
+    width: 15em;
+    border-radius: 50%;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
+a:hover{
+    color: #e30613;
+}
